@@ -10,3 +10,9 @@
 {
     background-color: #ffff00;
 }
+
+.first, .second
+{
+    font-size: 28px;
+    font-family: Helvetica, "Time New Roman", sans-serif;
+}
