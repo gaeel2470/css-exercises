@@ -13,7 +13,7 @@ body {
   margin-bottom: 8px;
 }
 
-.title, .button-container
+.card, .title, .button-container
 {
   padding: 8px;
 }
@@ -22,7 +22,6 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
-  padding: 8px;
 }
 
 .title {
