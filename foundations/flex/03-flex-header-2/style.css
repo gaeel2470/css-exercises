@@ -33,7 +33,7 @@ body {
   font-style: italic;
 }
 
-.right-items
+.left-items, .right-items
 {
   display: flex;
   align-items: center;
