@@ -52,11 +52,13 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
-  flex-shrink: 0;
 }
 
 .header
 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 8px;
