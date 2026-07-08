@@ -33,4 +33,5 @@ input {
 .right-links, .left-links
 {
   display: flex;
+  gap: 16px;
 }
