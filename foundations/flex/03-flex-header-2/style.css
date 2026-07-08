@@ -9,6 +9,7 @@ body {
 }
 
 .header {
+  display: flex;
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
@@ -29,6 +30,11 @@ body {
   font-style: italic;
 }
 
+.right-items
+{
+  display: flex;
+}
+
 button {
   border: none;
   border-radius: 8px;
@@ -44,5 +50,6 @@ a {
 }
 
 ul {
+  display: flex;
   list-style-type: none;
 }
