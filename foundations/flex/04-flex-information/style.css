@@ -17,6 +17,12 @@ img {
 .content
 {
   display: flex;
+  justify-content: center;
+}
+
+.plant
+{
+  width: 200px;
 }
 
 /* do not edit this footer */
