@@ -36,6 +36,10 @@ a {
   padding: 16px;
 }
 
+.footer {
+  background-color: #eeeeee;
+}
+
 .right-links, .left-links
 {
   display: flex;
