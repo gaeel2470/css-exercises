@@ -34,4 +34,5 @@ input {
 {
   display: flex;
   gap: 16px;
+  list-style: none;
 }
