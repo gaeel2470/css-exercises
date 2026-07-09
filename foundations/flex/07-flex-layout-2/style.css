@@ -49,13 +49,13 @@ a {
 .card-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 24px;
+  gap: 32px;
   padding: 48px;
 }
 
 .card {
   box-sizing: border-box;
-  width: 300px;
+  width: 297px;
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
