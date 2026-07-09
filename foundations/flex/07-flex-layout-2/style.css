@@ -34,3 +34,7 @@ body {
   display: flex;
   flex: 1;
 }
+
+.cards-container {
+  display: flex;
+}
